@@ -1,0 +1,16 @@
+{
+  "token": "Bot_Token",
+  "voice": {
+    "enabled": true,
+    "channel_id": "channel_id",
+    "self_deaf": false,
+    "self_mute": true
+  },
+  "auto_react": {
+    "enabled": true,
+    "reactions": {
+      "135498159328591872": ["🔥", "❤️"],
+      "userid 2": ["", ""]
+    }
+  }
+}
