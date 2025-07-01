@@ -1,4 +1,3 @@
-```
 # 🚀 Discord AtlasSelf V1.1
 A modular selfbot implementation using `discord.js-selfbot-v13` with voice channel and auto-react functionality.
 ## 🔧 Configuration (config.json)
@@ -36,5 +35,3 @@ A modular selfbot implementation using `discord.js-selfbot-v13` with voice chann
 ## 💬 Need Help?
 Join our support server:  
 [![Support Server](https://img.shields.io/discord/your_server_id?label=Support%20Server&style=for-the-badge)](https://discord.gg/THNHYkh2aV)
-
-```
