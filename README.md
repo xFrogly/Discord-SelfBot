@@ -34,4 +34,4 @@ A modular selfbot implementation using `discord.js-selfbot-v13` with voice chann
 
 ## 💬 Need Help?
 Join our support server:  
-[![Support Server](https://img.shields.io/discord/your_server_id?label=Support%20Server&style=for-the-badge)](https://discord.gg/THNHYkh2aV)
+[![Support Server](https://img.shields.io/discord/762058820046028820?label=Support%20Server&style=for-the-badge)](https://discord.gg/THNHYkh2aV)
